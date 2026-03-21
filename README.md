@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KarthikRajaSenthivel/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [1539-kth-missing-positive-number](https://github.com/KarthikRajaSenthivel/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KarthikRajaSenthivel/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/KarthikRajaSenthivel/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
