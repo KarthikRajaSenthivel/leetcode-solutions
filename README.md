@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/KarthikRajaSenthivel/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/KarthikRajaSenthivel/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/KarthikRajaSenthivel/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/KarthikRajaSenthivel/leetcode-solutions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/KarthikRajaSenthivel/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -34,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/KarthikRajaSenthivel/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KarthikRajaSenthivel/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KarthikRajaSenthivel/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KarthikRajaSenthivel/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KarthikRajaSenthivel/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
