@@ -1,4 +1,4 @@
-SELECT res.Department, res.Employee, res.Salary FROM
+SELECT Department, Employee, Salary FROM
 (
     SELECT d.Name AS Department, e.Name AS Employee, e.Salary,
            DENSE_Rank() OVER (PARTITION BY d.Name ORDER BY e.Salary DESC) AS Ranking
